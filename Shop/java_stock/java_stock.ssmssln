@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "java_stock", "java_stock\java_stock.ssmssqlproj", "{CB81ACBB-1AEB-4A95-BB09-C3EBCC991EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB81ACBB-1AEB-4A95-BB09-C3EBCC991EAD}.Default|Default.ActiveCfg = Default
+		{250DA6CE-898D-4F8E-BFAC-49C1F750B487}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
